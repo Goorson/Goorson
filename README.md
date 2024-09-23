@@ -1,8 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there!;Welcome+to+my+GitHub!;)](https://git.io/typing-svg)
-
-<h2 align="left">Hi 👋, I'm Adam</h1>
-<h4 align="left">A passionate backend developer from Poland</h3>
-
 <h4 align="left">Connect with me:</h3>
 <p align="left"> <a href="https://linkedin.com/in/adam-górecki-1b3b40236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adam-gorecki" height="30" width="40" /></a>
 </p>
